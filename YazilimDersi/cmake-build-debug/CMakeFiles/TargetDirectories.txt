@@ -1,0 +1,3 @@
+/Users/muratdanaci/Desktop/Lessons/YazilimDersi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/muratdanaci/Desktop/Lessons/YazilimDersi/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/muratdanaci/Desktop/Lessons/YazilimDersi/cmake-build-debug/CMakeFiles/YazilimDersi.dir

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="YazilimDersi"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/muratdanaci/Desktop/Lessons/YazilimDersi/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/muratdanaci/Desktop/Lessons/YazilimDersi/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/muratdanaci/Desktop/Lessons/YazilimDersi/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/muratdanaci/Desktop/Lessons/YazilimDersi/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/muratdanaci/Desktop/Lessons/YazilimDersi/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/muratdanaci/Desktop/Lessons/YazilimDersi/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/muratdanaci/Desktop/Lessons/YazilimDersi/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/muratdanaci/Desktop/Lessons/YazilimDersi/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/muratdanaci/Desktop/Lessons/YazilimDersi/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/muratdanaci/Desktop/Lessons/YazilimDersi/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/muratdanaci/Desktop/Lessons/YazilimDersi/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/muratdanaci/Desktop/Lessons/YazilimDersi/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="YazilimDersi">
+				<Option output="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/cmake-build-debug/YazilimDersi" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/muratdanaci/Desktop/Lessons/YazilimDersi/cmake-build-debug/Makefile&quot;  VERBOSE=1 YazilimDersi"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/muratdanaci/Desktop/Lessons/YazilimDersi/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/muratdanaci/Desktop/Lessons/YazilimDersi/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/muratdanaci/Desktop/Lessons/YazilimDersi/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="YazilimDersi/fast">
+				<Option output="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/cmake-build-debug/YazilimDersi" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/muratdanaci/Desktop/Lessons/YazilimDersi/cmake-build-debug/Makefile&quot;  VERBOSE=1 YazilimDersi/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/muratdanaci/Desktop/Lessons/YazilimDersi/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/muratdanaci/Desktop/Lessons/YazilimDersi/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/muratdanaci/Desktop/Lessons/YazilimDersi/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/76inciders-cumle_icerisinde_en_fazla_kullanilan_karakteri_bulan_program.c">
+			<Option target="YazilimDersi"/>
+		</Unit>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/Tamamlanan Dersler/42nciders-aritmetikislem.c">
+			<Option target="YazilimDersi"/>
+		</Unit>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/Tamamlanan Dersler/43ncuders-dikdortgenprizmasialanhacimhesap.c">
+			<Option target="YazilimDersi"/>
+		</Unit>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/Tamamlanan Dersler/44uncuders-maxminsayiyibulma.c">
+			<Option target="YazilimDersi"/>
+		</Unit>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/Tamamlanan Dersler/45inciders-tamkiyaslama.c">
+			<Option target="YazilimDersi"/>
+		</Unit>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/Tamamlanan Dersler/46inciders-whilesorusu.c">
+			<Option target="YazilimDersi"/>
+		</Unit>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/Tamamlanan Dersler/47inciders-toplamdegerhesaplama.c">
+			<Option target="YazilimDersi"/>
+		</Unit>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/Tamamlanan Dersler/48inciders-fonkdegerihesaplama.c">
+			<Option target="YazilimDersi"/>
+		</Unit>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/Tamamlanan Dersler/49uncuders-caprmaislemiisareti.c">
+			<Option target="YazilimDersi"/>
+		</Unit>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/Tamamlanan Dersler/50inciders-whiledongusunde17ninkatlari.c">
+			<Option target="YazilimDersi"/>
+		</Unit>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/Tamamlanan Dersler/51inciders-kareninalaniinteger.c">
+			<Option target="YazilimDersi"/>
+		</Unit>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/Tamamlanan Dersler/52inciders-kareninalanifloat.c">
+			<Option target="YazilimDersi"/>
+		</Unit>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/Tamamlanan Dersler/53uncuders-basamaklardakisayiyibulma.c">
+			<Option target="YazilimDersi"/>
+		</Unit>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/Tamamlanan Dersler/54uncuders-mil_to_km.c">
+			<Option target="YazilimDersi"/>
+		</Unit>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/Tamamlanan Dersler/55inciders-daireninalani.c">
+			<Option target="YazilimDersi"/>
+		</Unit>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/Tamamlanan Dersler/56inciders-havuzhacimprob.c">
+			<Option target="YazilimDersi"/>
+		</Unit>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/Tamamlanan Dersler/57inciders-sayi_yerdegistirme.c">
+			<Option target="YazilimDersi"/>
+		</Unit>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/Tamamlanan Dersler/58inciders-hali_fiyati_hesaplama.c">
+			<Option target="YazilimDersi"/>
+		</Unit>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/Tamamlanan Dersler/59uncuders-halicisorusu2.c">
+			<Option target="YazilimDersi"/>
+		</Unit>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/Tamamlanan Dersler/60inciders-if_elseif_else.c">
+			<Option target="YazilimDersi"/>
+		</Unit>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/Tamamlanan Dersler/61inciders-3sayiort.c">
+			<Option target="YazilimDersi"/>
+		</Unit>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/Tamamlanan Dersler/62inciders-sayiolusturma.c">
+			<Option target="YazilimDersi"/>
+		</Unit>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/Tamamlanan Dersler/63uncuders-ortalamahiz.c">
+			<Option target="YazilimDersi"/>
+		</Unit>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/Tamamlanan Dersler/64uncuders-ucgen_seklini_belirleme.c">
+			<Option target="YazilimDersi"/>
+		</Unit>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/Tamamlanan Dersler/65inciders-telefonfaturasihesaplama.c">
+			<Option target="YazilimDersi"/>
+		</Unit>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/Tamamlanan Dersler/66inciders-thebest-basitkesirlerdedortislem-swcase.c">
+			<Option target="YazilimDersi"/>
+		</Unit>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/Tamamlanan Dersler/67inciders-girilenharfin-alfabesirasi.c">
+			<Option target="YazilimDersi"/>
+		</Unit>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/Tamamlanan Dersler/68inciders-seridegerihesaplama.c">
+			<Option target="YazilimDersi"/>
+		</Unit>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/Tamamlanan Dersler/69uncuders-seri_degeri_hesaplamada_programa_girilen_degere_gore_devam_kosulu_eklemek.c">
+			<Option target="YazilimDersi"/>
+		</Unit>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/Tamamlanan Dersler/70inciders-siniftaki_ogrencilerden_boyunun_150cme_en_yakin_ogrenciyi_bulmak.c">
+			<Option target="YazilimDersi"/>
+		</Unit>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/Tamamlanan Dersler/71inciders-tavsanlarin_sayisinin_kuslarin_sayisini_kac_yil_sonra_gececegini_bulma.c">
+			<Option target="YazilimDersi"/>
+		</Unit>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/Tamamlanan Dersler/72inciders-switch_case_sorusu.c">
+			<Option target="YazilimDersi"/>
+		</Unit>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/Tamamlanan Dersler/73uncuders-cumledeki_kelime_sayisini_bulan_program.c">
+			<Option target="YazilimDersi"/>
+		</Unit>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/Tamamlanan Dersler/74uncuders-klavyeden_girilen_cumleyi_alt_alta_ekrana_basma.c">
+			<Option target="YazilimDersi"/>
+		</Unit>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/Tamamlanan Dersler/75inciders-karakter_dizisini_istenilen_bicimde_ekrana_bastirma.c">
+			<Option target="YazilimDersi"/>
+		</Unit>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/Tamamlanan Dersler/kirkbirinciders-ornek.c">
+			<Option target="YazilimDersi"/>
+		</Unit>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/Tamamlanan Dersler/kirkinciders-degiskenindegeriyleislem-adresiyleislem.c">
+			<Option target="YazilimDersi"/>
+		</Unit>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/Tamamlanan Dersler/otuzaltinciders-strcatfonksiyonu.c">
+			<Option target="YazilimDersi"/>
+		</Unit>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/Tamamlanan Dersler/otuzbesinciders-strncpyfonksiyonu.c">
+			<Option target="YazilimDersi"/>
+		</Unit>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/Tamamlanan Dersler/otuzbirinciders-strlenfonksiyonu.c">
+			<Option target="YazilimDersi"/>
+		</Unit>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/Tamamlanan Dersler/otuzdokuzuncuders-fonksiyonlar.c">
+			<Option target="YazilimDersi"/>
+		</Unit>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/Tamamlanan Dersler/otuzdorduncuders-strcpyfonksiyonu.c">
+			<Option target="YazilimDersi"/>
+		</Unit>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/Tamamlanan Dersler/otuzikinciders-strcmpfonksiyonu.c">
+			<Option target="YazilimDersi"/>
+		</Unit>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/Tamamlanan Dersler/otuzsekizinciders-egzersiz.c">
+			<Option target="YazilimDersi"/>
+		</Unit>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/Tamamlanan Dersler/otuzucuncuders-strncmpfonksiyonu.c">
+			<Option target="YazilimDersi"/>
+		</Unit>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/Tamamlanan Dersler/otuzuncuders-definekullanimi.c">
+			<Option target="YazilimDersi"/>
+		</Unit>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/Tamamlanan Dersler/otuzyedinciders-strncatfonksiyonu.c">
+			<Option target="YazilimDersi"/>
+		</Unit>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/Tamamlanan Dersler/yirmialtinciders-egzersiz.c">
+			<Option target="YazilimDersi"/>
+		</Unit>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/Tamamlanan Dersler/yirmidokuzuncuders-karakterdizileri.c">
+			<Option target="YazilimDersi"/>
+		</Unit>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/Tamamlanan Dersler/yirmisekizinciders-cbsdp2.c">
+			<Option target="YazilimDersi"/>
+		</Unit>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/Tamamlanan Dersler/yirmisekizinciders-cokboyutlusayidizileripekistirme.c">
+			<Option target="YazilimDersi"/>
+		</Unit>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/Tamamlanan Dersler/yirmiyedinciders-cokboyutlusayidizileri.c">
+			<Option target="YazilimDersi"/>
+		</Unit>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/ornek.c">
+			<Option target="YazilimDersi"/>
+		</Unit>
+		<Unit filename="/Users/muratdanaci/Desktop/Lessons/YazilimDersi/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
