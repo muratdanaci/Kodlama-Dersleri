@@ -30,4 +30,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi d
 ## Lisans
 
 [MIT](https://choosealicense.com/licenses/mit/) 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+
