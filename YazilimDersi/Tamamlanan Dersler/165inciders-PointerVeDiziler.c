@@ -1,5 +1,8 @@
 #include "stdio.h"
 #include "stdlib.h"
+/* int t[10]
+t = &t[0]
+*/
 
 int main()
 {
