@@ -1,3 +1,4 @@
-//
-// Created by Murat Danacı on 26.11.2022.
-//
+#include <stdio.h>
+#include <stdlib.h>
+
+
