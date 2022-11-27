@@ -1,11 +1,13 @@
-#include "stdio.h"
-#include "unistd.h"
-#include "math.h"
+#include <stdio.h>
+#include <stdlib.h>
 
 int main()
 {
-    int a=2,b=3;
+    int i;
+    char *c[10] = {"Bir","Iki","Uc"}; 
 
-    printf("%.2f", pow(a,b));
+    printf("%s\n",c[0]);
+    printf("%d",*c[0]);
+    
     return 0;
 }
